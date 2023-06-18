@@ -11,3 +11,5 @@ The app will rebuild and deploy whenever new changes are pushed to main.
 - Update the `VALID_GUESSES` array in [src/constants/validGuesses.ts](src/constants/validGuesses.ts) to include words of any of the variable lengths desired.
 - Or update the customwords.txt in [src/constants/customwords.txt](src/constants/customwords.txt) and run the `formatter.py` to automatically update the words and valid guesses.
 
+## Clones
+Make sure to update workflow read and write permissions in Settings->Actions->General->Read and Write Permissions
