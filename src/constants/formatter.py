@@ -20,7 +20,7 @@ def export_words(words, header, outfile):
     outfile.write(']')
 
 # Get schnoob words and extra words and write to constants files
-words = get_words('schnoobwords.txt')
+words = get_words('customwords.txt')
 extras = get_words('allwords.txt')
 export_words(words, 'export const WORDS = [', 'wordlist.ts')
 export_words(words + extras, 'export const VALID_GUESSES = [', 'validGuesses.ts')
