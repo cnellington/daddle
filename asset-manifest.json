@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dadle/static/css/main.c46f04ce.css",
-    "main.js": "/dadle/static/js/main.9f19d16b.js",
-    "static/js/787.b3f9d252.chunk.js": "/dadle/static/js/787.b3f9d252.chunk.js",
-    "index.html": "/dadle/index.html",
-    "main.c46f04ce.css.map": "/dadle/static/css/main.c46f04ce.css.map",
-    "main.9f19d16b.js.map": "/dadle/static/js/main.9f19d16b.js.map",
-    "787.b3f9d252.chunk.js.map": "/dadle/static/js/787.b3f9d252.chunk.js.map"
+    "main.css": "/daddle/static/css/main.c46f04ce.css",
+    "main.js": "/daddle/static/js/main.ee3d61f2.js",
+    "static/js/787.b3f9d252.chunk.js": "/daddle/static/js/787.b3f9d252.chunk.js",
+    "index.html": "/daddle/index.html",
+    "main.c46f04ce.css.map": "/daddle/static/css/main.c46f04ce.css.map",
+    "main.ee3d61f2.js.map": "/daddle/static/js/main.ee3d61f2.js.map",
+    "787.b3f9d252.chunk.js.map": "/daddle/static/js/787.b3f9d252.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c46f04ce.css",
-    "static/js/main.9f19d16b.js"
+    "static/js/main.ee3d61f2.js"
   ]
 }
