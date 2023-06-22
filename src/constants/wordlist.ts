@@ -8,4 +8,6 @@ export const WORDS = [
   'burger',
   'snore',
   'z',
+  'aptamer',
+  'megahound',
 ]
